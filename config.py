@@ -1,0 +1,7 @@
+class Config:
+    #Telegram API settings
+    API_ID="25231667"
+    API_HASH="260409f04278206a2da82e1bb7e9ba51"
+    BOT_TOKEN="6956224949:AAGGmxZfcVtHRZK0R4m6a8kYFRhoVTGP46c"
+    OPENAI_API_KEY="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"
+    
